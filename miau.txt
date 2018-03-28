@@ -1,0 +1,20 @@
+ls ingresas al archivo
+mkdir crear 
+pwd saber el lugar donde esta el archivo
+cd cambio el directorio
+vi crea problemas
+esc w guarda
+esc q salir
+man mas el comando.. te muestra para que sirve cada uno
+vim te ayuda a reparar el archivo
+mv mover archivo
+rv borrar 
+rv -r borrar directorio
+cp copiar
+clear limpia la terminal 
+more muestra detalles de hora y fecha de lo que vas haciendo
+head mas el archivo.. te muestra el principio
+tail mas el archivo.. te muestra el final del archivo
+grep 'palabra clave' mas el archivo.. te muestra donde aparecen las palabras claves
+wc mas el archivo .. te muestra cuantas lineas, palabras y caracteres llevas
+
